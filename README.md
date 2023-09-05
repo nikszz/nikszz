@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikszz&label=Profile%20views&color=006eff&style=flat" alt="nikszz" /> </p>
 
-- 🔭 I’m currently working on [Briq](https://app.br.iq/)
+- 🔭 I’m currently working on [Mobile Programming](https://www.mobileprogramming.com/)
 
-- 💞️ I’m looking to collaborate on Nuxt Projects, Vue Projects, Web Development
+- 💞️ I’m looking to collaborate on Next Projects, React Projects, Web Development, VueJs
 
-- 🌱 I’m currently learning **Nodejs, Express Js, React Js**
+- 🌱 I’m currently learning **Nodejs, Express Js, React Js NextJs**
 
 - 👨‍💻 All of my projects are available at [https://itsnik.in](https://itsnik.in)
 
-- 💬 Ask me about **Vue, JavaScript, HTML/CSS, Nuxt Js**
+- 💬 Ask me about **Vue, JavaScript, HTML/CSS, Nuxt Js ReactJs NextJs**
 
 - 📫 How to reach me **jpngson@gmail.com**
 
